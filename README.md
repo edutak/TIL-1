@@ -8,3 +8,7 @@
 
 *[마크다운 활용](./markdown.md)
 
+
+
+## 2.Python
+
